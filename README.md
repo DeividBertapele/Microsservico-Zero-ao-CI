@@ -29,8 +29,4 @@
     Após entrar na execução e digita este comando para fazer migração:
         - python manage.py migrate
 
-    
-
-
-
 -----------------------------------------------------
