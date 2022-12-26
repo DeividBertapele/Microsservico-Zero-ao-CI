@@ -38,7 +38,7 @@
 
     - docker exec -it codeprogress_app bash 
 
-    Após entrar na execução e digita este comando para fazer migração:
+ - Após entrar na execução e digita este comando para fazer migração:
         - python manage.py migrate
 
 -----------------------------------------------------
