@@ -10,10 +10,6 @@
     - django
     - gunicorn
 
-- K8s:
-    - Deployment
-    - Service
-
 - CI:
     - Build
     - Testes
