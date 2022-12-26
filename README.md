@@ -10,8 +10,20 @@
     - django
     - gunicorn
 
-- Criar a pasta:
-    - K8s /.docker
+- K8s:
+    - Deployment
+    - Service
+
+- CI:
+    - Build
+    - Testes
+    - Verificar a qualidade do código
+    - Code Review
+    - Políticas do repositório
+
+- Container:
+    - Registry - GCP / Privadas
+
 
 -----------------------------------------------------
 - Feito isso, podemos rodar no terminal do docker-compose
@@ -30,3 +42,4 @@
         - python manage.py migrate
 
 -----------------------------------------------------
+
