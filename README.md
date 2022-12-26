@@ -1,4 +1,4 @@
-# Criando e configurando um Microsserviço do Zero ao CI
+# Criando e configurando um Microsserviço com CI
 
 - Criar o arquivo:
     - gitignore
